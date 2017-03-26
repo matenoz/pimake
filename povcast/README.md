@@ -1,7 +1,6 @@
-# yapg
+# POVcast
 yet another POV globe
 
-https://hackaday.io/project/8881-yapg
 
 uses custom Adafruit DotStar library to drive a blindingly bright LED string
 and an FPGA control loop to handle the motor control
